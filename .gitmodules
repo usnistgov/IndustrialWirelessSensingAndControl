@@ -13,3 +13,6 @@
 [submodule "IndustrialWirelessAnalysis"]
 	path = IndustrialWirelessAnalysis
 	url = https://www.github.com/usnistgov/IndustrialWirelessAnalysis
+[submodule "URLLC"]
+	path = URLLC
+	url = https://www.github.com/usnistgov/URLLC
