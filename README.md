@@ -11,3 +11,9 @@ DISCLAIMER: Certain tools, commercial equipment, instruments, or materials are i
 in order to specify the experimental procedure adequately. Such identification is not intended to imply 
 recommendation or endorsement by NIST, nor is it intended to imply that the materials or equipment identified 
 are necessarily the best available for the purpose.
+
+
+# Contact Information
+Project Lead: [Rick Candell](https://www.nist.gov/people/richard-candell) <br>
+Industrial Wireless Systems [Project Page](https://www.nist.gov/programs-projects/wireless-systems-industrial-environments) <br>
+National Institute of Standards and Technology [NIST](http://www.nist.gov) <br>
