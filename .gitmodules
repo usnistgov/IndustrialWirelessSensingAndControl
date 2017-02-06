@@ -1,0 +1,12 @@
+[submodule "tesim"]
+	path = tesim
+	url = https://www.github.com/usnistgov/tesim
+[submodule "tesim_nivis_setup"]
+	path = tesim_nivis_setup
+	url = https://www.github.com/usnistgov/tesim_nivis_setup
+[submodule "tesim_ads_comms"]
+	path = tesim_ads_comms
+	url = https://www.github.com/usnistgov/tesim_ads_comms
+[submodule "SimpleFactory"]
+	path = SimpleFactory
+	url = https://www.github.com/usnistgov/SimpleFactory
