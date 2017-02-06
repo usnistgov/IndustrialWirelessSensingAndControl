@@ -10,3 +10,6 @@
 [submodule "SimpleFactory"]
 	path = SimpleFactory
 	url = https://www.github.com/usnistgov/SimpleFactory
+[submodule "IndustrialWirelessAnalysis"]
+	path = IndustrialWirelessAnalysis
+	url = https://www.github.com/usnistgov/IndustrialWirelessAnalysis
