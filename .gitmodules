@@ -19,3 +19,6 @@
 [submodule "tesim_omnetpp"]
 	path = tesim_omnetpp
 	url = https://github.com/usnistgov/tesim_omnetpp.git
+[submodule "rf_emulator_scripts"]
+	path = rf_emulator_scripts
+	url = https://github.com/usnistgov/rf_emulator_scripts.git
