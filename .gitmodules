@@ -22,3 +22,6 @@
 [submodule "rf_emulator_scripts"]
 	path = rf_emulator_scripts
 	url = https://github.com/usnistgov/rf_emulator_scripts.git
+[submodule "nist-iws-papers"]
+	path = nist-iws-papers
+	url = https://github.com/usnistgov/nist-iws-papers
